@@ -1,2 +1,5 @@
 # cloud-flare-workers-tutorial
-cloud-flare-workersのチュートリアル用リポジトリ（Gitコマンドの周りの学習にも使用する）
+
+cloud-flare-workers のチュートリアル用リポジトリ（Git コマンドの周りの学習にも使用する）
+
+# git コマンドのテストも行っていきます
