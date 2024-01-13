@@ -11,3 +11,4 @@
   - 1.2.2 squash-and-merge を試す 2
 - 1.3 rebase-and-merge を試します
   - 1.3.1 rebase-and-merge を試す 1
+  - 1.3.2 rebase-and-merge を試す 2
