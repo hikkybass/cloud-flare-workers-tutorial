@@ -14,3 +14,4 @@
   - 1.3.2 rebase-and-merge を試す 2
 - 1.4 git pullがrebaseになっているのか確認する
 - 1.4.1 git pullがrebaseになっているのか確認する
+- 1.4.2 git pullがrebaseになっているのか確認する
