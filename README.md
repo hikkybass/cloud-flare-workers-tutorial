@@ -8,4 +8,6 @@
 - 1.1 create-a-merge-commit を試します
 - 1.2 squash-and-merge を試します
   - 1.2.1 squash-and-merge を試す 1
-  - 1.2.1 squash-and-merge を試す 2
+  - 1.2.2 squash-and-merge を試す 2
+- 1.3 rebase-and-merge を試します
+  - 1.3.1 rebase-and-merge を試す 1
