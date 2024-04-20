@@ -12,6 +12,11 @@
 - 1.3 rebase-and-merge を試します
   - 1.3.1 rebase-and-merge を試す 1
   - 1.3.2 rebase-and-merge を試す 2
-- 1.4 git pullがrebaseになっているのか確認する
-- 1.4.1 git pullがrebaseになっているのか確認する
-- 1.4.2 git pullがrebaseになっているのか確認する
+- 1.4 git pull が rebase になっているのか確認する
+- 1.4.1 git pull が rebase になっているのか確認する
+- 1.4.2 git pull が rebase になっているのか確認する
+
+- へんしゅうしましたよ（develop）
+- ああああ
+- いいいい
+- 編集しました
